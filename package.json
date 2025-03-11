@@ -1,0 +1,15 @@
+{
+  "name": "component-codemod",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.47.1",
+    "@typescript-eslint/parser": "^5.47.1",
+    "tsconfig": "*",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "ts-morph": "^25.0.1",
+    "ts-node": "^10.9.2"
+  },
+  "packageManager": "pnpm@10.5.2+sha512.da9dc28cd3ff40d0592188235ab25d3202add8a207afbedc682220e4a0029ffbff4562102b9e6e46b4e3f9e8bd53e6d05de48544b0c57d4b0179e22c76d1199b"
+}
